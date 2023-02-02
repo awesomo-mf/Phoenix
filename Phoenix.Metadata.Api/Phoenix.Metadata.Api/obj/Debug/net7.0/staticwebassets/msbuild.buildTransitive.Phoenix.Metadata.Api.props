@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Phoenix.Metadata.Api.props" />
+</Project>

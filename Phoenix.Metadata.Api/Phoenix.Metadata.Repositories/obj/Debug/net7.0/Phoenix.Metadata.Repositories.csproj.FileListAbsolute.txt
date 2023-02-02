@@ -1,0 +1,12 @@
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\bin\Debug\net7.0\Phoenix.Metadata.Repositories.deps.json
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\bin\Debug\net7.0\Phoenix.Metadata.Repositories.dll
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\bin\Debug\net7.0\Phoenix.Metadata.Repositories.pdb
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.csproj.AssemblyReference.cache
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.AssemblyInfoInputs.cache
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.AssemblyInfo.cs
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.csproj.CoreCompileInputs.cache
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.dll
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\refint\Phoenix.Metadata.Repositories.dll
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\Phoenix.Metadata.Repositories.pdb
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Metadata.Repositories\obj\Debug\net7.0\ref\Phoenix.Metadata.Repositories.dll

@@ -1,0 +1,10 @@
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\bin\Debug\netstandard2.1\Phoenix.Models.Shared.deps.json
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\bin\Debug\netstandard2.1\Phoenix.Models.Shared.dll
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\bin\Debug\netstandard2.1\Phoenix.Models.Shared.pdb
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.csproj.AssemblyReference.cache
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.AssemblyInfoInputs.cache
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.AssemblyInfo.cs
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.csproj.CoreCompileInputs.cache
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.dll
+D:\projects\phoenix\Phoenix.Metadata.Api\Phoenix.Models.Shared\obj\Debug\netstandard2.1\Phoenix.Models.Shared.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Phoenix.Metadata.Models/1.0.0": {
+        "dependencies": {
+          "Phoenix.Shared.Models": "1.0.0"
+        },
+        "runtime": {
+          "Phoenix.Metadata.Models.dll": {}
+        }
+      },
+      "Phoenix.Shared.Models/1.0.0": {
+        "runtime": {
+          "Phoenix.Shared.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phoenix.Metadata.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Phoenix.Shared.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
