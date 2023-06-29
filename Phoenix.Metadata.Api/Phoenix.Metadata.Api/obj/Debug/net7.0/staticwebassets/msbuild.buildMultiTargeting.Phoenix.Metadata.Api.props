@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Phoenix.Metadata.Api.props" />
-</Project>
