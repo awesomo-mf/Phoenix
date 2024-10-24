@@ -1,0 +1,80 @@
+{
+  "alias": "test-flow",
+  "entity": {
+    "alias": "test-entity",
+    "collection": "test-entities"
+  },
+  "forms": {
+    "initial-form": {
+      "fields": {
+        "field-1": {
+          "field-type": "int",
+          "data-field": "data-int-field"
+        },
+        "field-2": {
+          "field-type": "bool",
+          "data-field": "data-bool-field"
+        },
+        "field-3": {
+          "field-type": "decimal",
+          "data-field": "data-decimal-field"  
+        }
+      }
+    },
+    "final-form": {
+      "fields": {
+        "field-final-1": {
+          "field-type": "int",
+          "data-field": "data-int-field"
+        },
+        "field-final-2": {
+          "field-type": "bool",
+          "data-field": "data-bool-field"
+        },
+        "field-final-3": {
+          "field-type": "decimal",
+          "data-field": "data-decimal-field"
+        }
+      }
+    }
+  },
+  "steps": {
+    "initial": {
+      "description": "This is initial step",
+      "form": "initial-form",
+      "transitions": {
+        "next-step": {
+          "transition-type": "button",
+          "step-alias": "final",
+          "title": "Next Step"
+        }
+      }
+    },
+    "final": {
+      "description": "This is final step",
+      "form": "final-form",
+      "transitions": {
+        "next-step": {
+          "transition-type": "button",
+          "step-alias": "done",
+          "title": "Next Step"
+        },
+        "prev-step": {
+          "transition-type": "button",
+          "step-alias": "initial",
+          "title": "Prev Step"
+        }
+      }
+    },
+    "done": {
+      "description": "Your workflow is done.",
+      "transitions": {
+        "prev-step": {
+          "transition-type": "button",
+          "step-alias": "initial",
+          "title":  "Start Over"
+        }
+      }
+    }
+  }
+}

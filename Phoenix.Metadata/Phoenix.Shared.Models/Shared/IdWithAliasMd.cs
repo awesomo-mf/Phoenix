@@ -3,9 +3,8 @@ using System;
 
 namespace Phoenix.Models.Metadata.Shared
 {
-    public class IdWithAliasEntity : IHaveAlias, IHaveIdentifier
+    public abstract class IdWithAliasMd : AliasMd, IHaveIdentifier
     {
         public Guid Id { get; set; }
-        public string Alias { get; set; }
     }
 }
